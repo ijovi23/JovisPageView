@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E3634D56E9CA34D01B17B3AF2D827E2AB768A07E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "07D946A443CDDD7CD99E3EA3FCB7FD9293809203" : 0,
+    "E3634D56E9CA34D01B17B3AF2D827E2AB768A07E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C45F777E-3FDE-4FE2-8FAE-77155939E7F3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "07D946A443CDDD7CD99E3EA3FCB7FD9293809203" : "JovisPageView\/JovisTopTabBar\/",
+    "E3634D56E9CA34D01B17B3AF2D827E2AB768A07E" : "JovisPageView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JovisPageViewDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JovisPageViewDemo\/JovisPageViewDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ijovi23\/JovisTopTabBar.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "07D946A443CDDD7CD99E3EA3FCB7FD9293809203"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ijovi23\/JovisPageView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E3634D56E9CA34D01B17B3AF2D827E2AB768A07E"
+    }
+  ]
+}
