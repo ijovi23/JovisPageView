@@ -26,7 +26,7 @@
 @property (assign, nonatomic) NSInteger currentPageIndex;
 
 @property (assign, nonatomic) BOOL showTabBar;
-@property (strong, nonatomic) JovisTopTabBar *tabBar;
+@property (strong, nonatomic, readonly) JovisTopTabBar *tabBar;
 @property (strong, nonatomic) NSArray<NSString *> *tabBarTitles;
 @property (assign, nonatomic) CGFloat tabBarHeight;
 
